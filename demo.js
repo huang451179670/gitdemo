@@ -8,7 +8,7 @@ const b = ()=> {
   let testb = '';
 }
 const c = ()=> {
-  let test = '';
+  let testc = '';
 }
 const d = ()=> {
   let test = '';
