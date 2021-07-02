@@ -5,7 +5,7 @@ const a = ()=>{
 }
 
 const b = ()=> {
-  let test = '';
+  let testb = '';
 }
 const c = ()=> {
   let test = '';
