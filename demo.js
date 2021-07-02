@@ -11,13 +11,13 @@ const c = ()=> {
   let testc = '';
 }
 const d = ()=> {
-  let test = '';
+  let testd = '';
 }
 
 const e = ()=>{
-  let test = ""
+  let teste = ""
 }
 
 const f = ()=>{
-  let test = ""
+  let testf = ""
 }
