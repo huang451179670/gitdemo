@@ -4,6 +4,15 @@ const a = ()=>{
   let test = ""
 }
 
+const b = ()=> {
+  let test = '';
+}
+const c = ()=> {
+  let test = '';
+}
+const d = ()=> {
+  let test = '';
+}
 
 const e = ()=>{
   let test = ""
